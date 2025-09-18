@@ -1,55 +1,57 @@
-## Hi there 👋
+# 👋 Welcome to Ahmed Gatri's GitHub Profile
 
-<!--
-**gatriahmed7-cell/gatriahmed7-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Ahmed Gatri**, an Electrical Engineering student from Tunisia 🇹🇳.  
+Welcome to my GitHub profile! Here you can find my projects, simulations, and academic work.  
 
-Here are some ideas to get you started:
+---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python 🐍, JavaScript 🌐, C++ 💻
-- **Frameworks:** Django 🌟, React ⚛️
-- **Tools:** Git 🦸, Docker 🐳, VSCode 💻
+- **Languages:** C++ 💻, Python 🐍, Arduino ⚡  
+- **Frameworks & Software:** Proteus 🔬, SolidWorks 🛠️  
+- **Tools:** Git 🐙, VSCode 💻  
+
+---
 
 ## 🚀 About Me
 
-- 👨‍⚕️ **Profession:** Software Developer & Researcher
-- 🌍 **Location:** Tunisia
-- 📚 **Interests:** AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-- 🎓 **Education:** [Your Degree/Field] from [Your Institution]
+- 👨‍🎓 **Profession:** Electrical Engineering Student  
+- 🌍 **Location:** Tunisia  
+- 📚 **Interests:** Electronics ⚡, Robotics 🤖, Embedded Systems 🔩, 3D Design 🏗️  
+- 🎓 **Education:** Electrical Engineering at Polytech Monastir  
+
+---
 
 ## 📂 Projects
 
-Here are some of my notable projects:
+Some of my notable projects:  
 
-- [**Project Name 1**](link-to-project): A brief description of what this project is about.
-- [**Project Name 2**](link-to-project): A brief description of what this project is about.
-- [**Project Name 3**](link-to-project): A brief description of what this project is about.
+- 🌱 **Automatic Irrigation System:** Arduino-based system with DHT11 sensor, RTC module, and motor pump.  
+- 🚆 **Mini Train Model:** A reduced train system with ultrasonic sensors, safety features, and speed control.  
+- 🔔 **Mini-Projects:** NE555 blinker, flame sensor integration, and Proteus simulations.  
 
-Feel free to explore and contribute!
+---
 
-## 📫 Contact Me
+## 📫 Contact Me  
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 **Email:** (your email here)  
+- 💼 **LinkedIn:** [Ahmed Gatri](https://www.linkedin.com/in/ahmed-gatri-0406b4339/)  
+- 🐙 **GitHub:** [gatriahmed7-cell](https://github.com/gatriahmed7-cell)  
 
-## 📝 Blog Posts
+---
 
-Check out my latest blog posts on technology and development:
+## 📈 GitHub Stats  
 
-- [**Blog Post 1**](link-to-blog-post): A brief summary of the blog post.
-- [**Blog Post 2**](link-to-blog-post): A brief summary of the blog post.
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gatriahmed7-cell&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  
 
-## 📈 GitHub Stats
+---
 
-![Dr. Omrani Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+## 🎯 Goals  
 
-## 🎯 Goals
+- 🌟 Build more innovative Arduino & robotics projects  
+- 🛠️ Improve my design and simulation skills  
+- 📚 Keep learning & growing in embedded systems and electronics  
 
-- 🌟 Contribute to open-source projects
-- 🛠️ Develop innovative software solutions
-- 📚 Continue learning and growing in the tech field
+---
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
+✨ Thank you for visiting my profile! Feel free to reach out if you’d like to collaborate or share ideas. 😊
