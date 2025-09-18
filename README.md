@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here you can find my projects, simulations, and ac
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C++ 💻, Python 🐍, Arduino ⚡  
+- **Languages:** C++ 💻, Python 🐍, C ⚡  
 - **Frameworks & Software:** Proteus 🔬, SolidWorks 🛠️  
 - **Tools:** Git 🐙, VSCode 💻  
 
